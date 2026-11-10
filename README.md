@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiTrOsH and I'm BMSTU student
+- 👋 Hi, I’m @MiTrOsH and I was BMSTU student
 - 👀 I’m interested in Python, C, C++ programming
 - 🌱 I’m currently learning Java, JavaScript
 - 💞️ I’m looking to collaborate on Something (I don't know yet, but when I'll have an idea, I will try to programm it)
